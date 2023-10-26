@@ -1,6 +1,13 @@
 # HR-Analytics-PostgreSQL-PowerBI
 HR Analytics of a company looking to understand its people. 
 
+### Viz 1
+![Viz1](https://github.com/CODEORDIETRYING/HR-Analytics-PostgreSQL-PowerBI/blob/main/Page%201.png?raw=true)
+
+### Viz 2
+![Viz2](https://github.com/CODEORDIETRYING/HR-Analytics-PostgreSQL-PowerBI/blob/main/Page%202.png?raw=true)
+
+
 ## Dataset Used
 HR data with over 22,000 rows of employee data from 2000-2020
 The data was cleaned in PostgreSQL before visualizing it in PowerBI.
